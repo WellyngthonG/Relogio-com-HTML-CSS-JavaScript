@@ -1,2 +1,2 @@
 # Um relogio com HTML CSS JavaScript!!
-Criando Um RELÓGIO com HTML, CSS &amp; JavaScript.
+Criando um RELÓGIO com HTML, CSS &amp; JavaScript.
